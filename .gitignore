@@ -1,0 +1,9 @@
+# Node stuff
+node_modules/
+.npm
+*.log
+
+# Compiled files
+build/*.html
+build/scripts.js
+build/styles.css

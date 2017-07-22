@@ -1,0 +1,16 @@
+{
+	"name": "interndirectory",
+	"version": "1.0.0",
+	"homepage": "https://intern.directory/",
+	"author": "jaflo (https://github.com/jaflo)",
+	"license" : "MIT",
+	"dependencies": {
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^4.0.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-csso": "^3.0.0",
+		"gulp-htmlmin": "^3.0.0",
+		"gulp-less": "^3.3.2",
+		"gulp-uglify": "^3.0.0"
+	}
+}
